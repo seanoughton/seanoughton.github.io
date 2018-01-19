@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Sean Oughton's Web Development Blog
 header-img: img/home-bg.png
 email: seanoughton@gmail.com
 copyright_name: seanoughton
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Sean Oughton's Web Development Blog
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  seanoughton
