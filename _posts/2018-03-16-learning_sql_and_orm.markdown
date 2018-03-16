@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "LEARNING SQL & ORM"
-date:       2018-03-16 23:20:07 +0000
+date:       2018-03-16 19:20:08 -0400
 permalink:  learning_sql_and_orm
 ---
 
