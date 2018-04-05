@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "**How a Sinatra Web App is like layer based Compositing in After Effects**"
-date:       2018-04-05 23:18:41 +0000
+title:      "How a Sinatra Web App is like layer based Compositing in After Effects"
+date:       2018-04-05 19:18:42 -0400
 permalink:  how_a_sinatra_web_app_is_like_layer_based_compositing_in_after_effects
 ---
 
